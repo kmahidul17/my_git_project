@@ -11,8 +11,16 @@ h1{
     padding-top: 400px;
     color: aqua;
 }
-b{
-    padding-left: 893px;
+.bold{
+    padding-left: 838px;
+    margin-top: 50px;
     color: aqua;
+    
   
+}
+
+.bold b{
+
+    font-size: 30px;
+   
 }
